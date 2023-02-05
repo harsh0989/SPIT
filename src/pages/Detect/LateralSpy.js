@@ -1,5 +1,5 @@
 import React from 'react'
-import UploadImg from '../../sections/@dashboard/barcode/UploadImg'
+import UploadImg from '../../sections/@dashboard/barcode/UploadLateralSpy'
 
 function LateralSpy() {
     return (

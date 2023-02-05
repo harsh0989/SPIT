@@ -54,7 +54,7 @@ export default function Router() {
         { path: 'exfiltration3', element: <Ex3 /> },
         { path: 'C&C', element: <CandC /> },
         { path: 'P2P', element: <P2P /> },
-        { path: 'malwarecontol', element: <MalwareController /> },
+        { path: 'malwarecontrol', element: <MalwareController /> },
         { path: 'botnet', element: <Botnet /> },
         { path: 'infectedhost', element: <InfectedHost /> },
         { path: 'lateralbrute', element: <LateralBrute /> },
